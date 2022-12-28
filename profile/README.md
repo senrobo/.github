@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sentinels Robotics
+Challenging the weight limit of Robocup Junior Soccer Lightweight since 2019
 
 <!--
 

@@ -1,5 +1,5 @@
 ## Sentinels Robotics
-Challenging the weight limit of Robocup Junior Soccer Lightweight since 2019
+The best way to learn is to watch your robot go up in flames
 
 <!--
 
